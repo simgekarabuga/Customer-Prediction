@@ -6,8 +6,6 @@ Understand the demographic and behavioral patterns of loyal customers,
 
 Analyze the impact of campaigns based on age groups,
 
-And finally, build a robust machine learning model (XGBoost) to predict potential loyal customers.
-
 🔍 Steps Taken: 📊 Data Preprocessing: Missing values were handled (e.g., Income column was filled with the mean).
 
 Categorical variables were encoded into numerical format (Education, Marital_Status, Income group, etc.).
