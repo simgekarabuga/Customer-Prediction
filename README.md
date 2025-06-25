@@ -61,3 +61,5 @@ Features such as age, education, income, and having children were found to signi
 The XGBoost model achieved high accuracy in predicting potential loyal customers.
 
 Power BI visualization made it easy to interpret campaign effectiveness across time and demographics.
+![image](https://github.com/user-attachments/assets/752a80c3-6b06-41e8-8c64-d2de45038a1d)
+
